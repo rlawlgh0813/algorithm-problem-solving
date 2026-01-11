@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define INF 1e9
-int n, ret = INF;
+int n;
 int dp[5004];
 
 void solve(){
