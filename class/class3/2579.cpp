@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int n,ret=-1;
+int n;
 int a[304], dp[304][2];
 
 void solve(){
