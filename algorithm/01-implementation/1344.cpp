@@ -18,7 +18,7 @@ void solve(){
 
     for(int i=0; i<19; i++){
         if(check(i)) continue;
-        double temp = 
+        double temp = r[0]
         for(int j=0; j<19; j++){
             if(check(j)) continue;
         }
