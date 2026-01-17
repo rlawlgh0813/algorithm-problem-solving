@@ -6,7 +6,8 @@ pair<ll,ll> a[100004];
 map<ll,ll> s,e;
 
 int check(int len){
-
+    int ret = 0;
+    for()
 }
 
 void solve(){
@@ -18,12 +19,9 @@ void solve(){
         e[q+100000000]++;
     }
 
-    ll l = 0, r = 200000000;
-    while(l < r){
-        ll m = (l + r) / 2;
-
+    for(int i=0; i<n; i++){
+        
     }
-    cout << l;
 }
 
 int main(){
