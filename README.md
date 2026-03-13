@@ -1,14 +1,27 @@
-# Algorithm Problem Solving (C++)
+# Algorithm Problem Solving
 
-이 저장소는 **C++ 기반의 알고리즘 문제 풀이 모음**입니다.  
-자료구조와 알고리즘 기본기를 강화하고, 다양한 문제 해결 전략을 체득하기 위해 문제를 분류하고 정리한 학습용 레포지토리입니다.
+알고리즘 문제 풀이 기록을 정리하는 저장소입니다.
+
+주로 **BOJ (Baekjoon Online Judge)** 문제를 중심으로 문제를 해결하고  
+풀이 과정과 구현 코드를 정리합니다.
+
+문제 풀이 과정에서 사용된 자료구조, 알고리즘 패턴, 구현 방법 등을  
+지속적으로 정리하며 문제 해결 능력을 향상시키는 것을 목표로 합니다.
 
 ---
 
-## 📌 목적
+## Platforms
 
-- 알고리즘 및 자료구조 이해 증진
-- C++ STL 사용법과 효율적 코드 작성
-- 문제 해결 능력 향상
-- 코딩 테스트 및 경시대회 대비
-- 풀이 전략과 시간·공간 복잡도 이해
+- **BOJ (Baekjoon Online Judge)**  
+  https://www.acmicpc.net/
+
+- **Solved.ac**  
+  https://solved.ac/
+
+---
+
+## Language
+
+- C++
+- Python
+- Java (occasionally)
