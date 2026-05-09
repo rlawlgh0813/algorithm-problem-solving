@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/
+.cph/
+
+# Build outputs
+*.out
+*.exe
+*.o
+
+# Local scratch files
+input.txt
+output.txt
